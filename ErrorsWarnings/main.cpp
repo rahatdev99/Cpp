@@ -2,7 +2,7 @@
 
 int main() {
     //compile time error
-    std::cout<<"Hello world!"<<std::endl
+    std::cout<<"Hello world!"<<std::endl;
 
     //run time error
     7/3;
