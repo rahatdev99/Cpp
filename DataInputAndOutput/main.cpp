@@ -29,8 +29,6 @@ int main() {
     std::getline(std::cin,full_name);
     std::cin>>age2;
     std::cout<<"Hello "<<full_name<<" you are "<<age2<<" year old!"<<std::endl;
-
-
-
+    
     return 0;
 }
