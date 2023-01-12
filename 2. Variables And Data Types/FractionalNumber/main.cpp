@@ -66,6 +66,5 @@ int main() {
     result = number11 / number12;
     std::cout<<number11<<" / "<<number12<<" = "<<result<<std::endl;
 
-
     return 0;
 }
